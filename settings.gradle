@@ -1,0 +1,11 @@
+rootProject.name = "BTE-MapViewer"
+
+include("MapViewer")
+include("MapViewer:api")
+include("MapViewer:backend")
+include("MapViewer:frontend")
+
+include("Mapper")
+include("Mapper:core")
+include("Mapper:app")
+

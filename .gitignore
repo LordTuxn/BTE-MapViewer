@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Mapper/app/build/
+/Mapper/app/build/classes/java/main/
+/Mapper/core/build/
+/Mapper/core/build/classes/java/main/
+/MapViewer/api/build/
+/MapViewer/backend/build/
+/MapViewer/build/

@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'com.alpsbte.mapper.core'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
