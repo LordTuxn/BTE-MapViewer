@@ -1,4 +1,4 @@
-package com.alpsbte.mapper.utils.nbt.tag;
+package com.alpsbte.mapper.utils.nbt.tags;
 
  /*
  *
@@ -14,5 +14,7 @@ public enum TagType {
     TAG_BYTE_ARRAY,
     TAG_STRING,
     TAG_LIST,
-    TAG_COMPOUND
+    TAG_COMPOUND,
+    TAG_INT_ARRAY,
+    TAG_LONG_ARRAY
 }
