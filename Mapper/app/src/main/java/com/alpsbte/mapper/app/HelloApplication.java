@@ -1,6 +1,6 @@
 package com.alpsbte.mapper.app;
 
-import com.alpsbte.mapper.core.Main;
+import com.alpsbte.mapper.Main;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
