@@ -8,3 +8,13 @@ version '1.0'
 repositories {
     mavenCentral()
 }
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.7.2'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+    compileOnly 'org.jetbrains:annotations:23.0.0'
+}
+
+test {
+    useJUnitPlatform()
+}
